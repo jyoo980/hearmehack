@@ -1,0 +1,4 @@
+# Everything in here will not be staged for commit
+.DS_Store
+workspace.xml
+*.class
